@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Chicken race",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T12:56:25.404585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chicken race",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/01_Chicken_race_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chicken Race",
+      "artist": "Jerónimo Sánchez",
+      "has_synced": true,
+      "path": "select/02_Chicken_Race_Jerónimo_Sánchez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re-Chicken race",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/03_Re-Chicken_race_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chicken race",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Chicken_race_04_Limited_Sazabys.txt"
+    }
+  ]
+}
